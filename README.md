@@ -1,11 +1,19 @@
-# simpleclassific
-Different methods for simple classification
+# Различные методы классификации текстов
 
+✔ Python
 
-add venv
+## Использованные методы
+✔ TF-IDF
 
-install everything
+✔ Bag of words
 
-choose method
+✔ LSTM
 
-than method runs
+✔ BERT
+
+Файл датасета аходится в папке ```data```.
+
+## Ссылка на оригинальный файл
+```
+https://colab.research.google.com/drive/184WgvUjyo9SL-Gw4OcEodUBJS75Lr3HS?usp=sharing
+```
