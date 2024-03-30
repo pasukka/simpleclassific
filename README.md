@@ -17,3 +17,8 @@
 ```
 https://colab.research.google.com/drive/184WgvUjyo9SL-Gw4OcEodUBJS75Lr3HS?usp=sharing
 ```
+
+## Ссылка на датасет на kaggle
+```
+https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+```
